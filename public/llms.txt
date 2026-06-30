@@ -1,0 +1,46 @@
+# ReadMeCraft
+
+> The world's most professional free GitHub Profile README generator.
+> No signup. No ads. Instant download.
+
+## What is ReadMeCraft?
+
+ReadMeCraft is a free, browser-based tool that lets developers create beautiful,
+professional GitHub profile READMEs in minutes. Users fill in a step-by-step
+wizard, choose from 8 themes and 120+ tech stack icons, configure widgets like
+GitHub stats, contribution graphs, trophy sections, snake animations, and WakaTime
+coding stats — then download or copy their finished README.md instantly.
+
+## Key Features
+
+- 10 guided wizard steps covering identity, style, social links, tech stack, widgets, projects, extras, support, and sections
+- 8 professional themes: Tokyo Night, Radical, Dracula, One Dark, Gruvbox, Nord, Aura, Dark Lover
+- 120+ skill icons in 8 categories (Languages, Frontend, Backend, Databases, DevOps/Cloud, Tools, ML/AI, Mobile)
+- 20 README sections including animated header, typing SVG, stats cards, streak, activity graph, snake animation, trophies, projects, pinned repos, WakaTime, Spotify Now Playing, and footer wave
+- Light and dark mode adaptive widget URLs using <picture> + <source media="(prefers-color-scheme)">
+- Auto-save to localStorage — work is never lost on refresh
+- One-click copy and download as README.md
+- No signup, no email, no account required
+- Deployed free on Vercel — globally fast
+
+## Who uses ReadMeCraft?
+
+- Software engineers wanting a standout GitHub profile
+- Students building their first developer portfolio
+- Content creators and streamers (Twitch/YouTube) who code
+- Open-source maintainers showcasing their projects
+- DevOps engineers and data scientists
+
+## Common Questions ReadMeCraft Answers
+
+- How do I create a GitHub profile README?
+- What is the best GitHub README generator?
+- How do I add stats cards to my GitHub profile?
+- How do I add a contribution snake animation to GitHub?
+- What widgets can I add to my GitHub README?
+- How do I make my GitHub profile look professional?
+
+## URLs
+
+- Homepage: https://readmecraft.vercel.app/
+- GitHub: https://github.com/readmecraft/readmecraft
